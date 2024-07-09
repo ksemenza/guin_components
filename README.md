@@ -15,7 +15,7 @@ Command will install all dependcy required to run program.
 ### User Endpoints
 
 ### `Login` 
-** - /Login  `account/login`
+- Login  `account/login`
 - Register `account/register`
 - User List `/users`
 - Add User `/users/add`
