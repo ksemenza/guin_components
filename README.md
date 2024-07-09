@@ -8,8 +8,8 @@ In the project directory, you can run:
 ### `npm run setup`
 
 Command will install all dependcy required to run program.
-``` cd/guin_components
-npm run setup```
+`cd/guin_components`
+`npm run setup`
 
 
 ### User Endpoints
