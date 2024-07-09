@@ -14,7 +14,7 @@ Command will install all dependcy required to run program.
 ### `End Points for Login USer`
 
 ### Login 
-Login  (http://localhost:300/account/login)(/account/login)
+- Login  (http://localhost:300)(/account/login)
 Register (http://localhost:300)(/account/register)
 User List (http://localhost:300)(/users)
 Add User (http://localhost:300)(/users/add)
