@@ -15,7 +15,7 @@ Command will install all dependcy required to run program.
 
 ### Login 
 - Login  (http://localhost:300)(/account/login)
-Register (http://localhost:300)(/account/register)
-User List (http://localhost:300)(/users)
-Add User (http://localhost:300)(/users/add)
-Edit User (http://localhost:300)(/users/edit/:id)
+- Register (http://localhost:300)(/account/register)
+- User List (http://localhost:300)(/users)
+- Add User (http://localhost:300)(/users/add)
+- Edit User (http://localhost:300)(/users/edit/:id)
