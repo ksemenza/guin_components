@@ -1,5 +1,5 @@
 # Guin Silver Development 
- a production by K. Semenza
+Production by K. Semenza
 
 ## Program Dependency Installation
 
@@ -11,11 +11,11 @@ Command will install all dependcy required to run program.
 
 
 
-### `End Points for Login USer`
+## `End Points for User`
 
 ### Login 
-- Login  (http://localhost:300)(/account/login)
-- Register (http://localhost:300)(/account/register)
-- User List (http://localhost:300)(/users)
-- Add User (http://localhost:300)(/users/add)
-- Edit User (http://localhost:300)(/users/edit/:id)
+- Login  (/account/login)
+- Register (/account/register)
+- User List (/users)
+- Add User (/users/add)
+- Edit User (/users/edit/:id)
