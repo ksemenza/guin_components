@@ -13,8 +13,8 @@ Command will install all dependcy required to run program.
 
 ### `End Points for Login USer`
 
-    - Login (/ account/login)
-    - Register (/ account/register)
-    - User List (/users)
-    - Add User (/users/add)
-    - Edit User (/users/edit/:id)
+    - Login(http://localhost:300/account/login)(/account/login)
+    - Register (http://localhost:300/account/register)(/account/register)
+    - User List (http://localhost:300/users)(/users)
+    - Add User (http://localhost:300/users/add)(/users/add)
+    - Edit User (http://localhost:300/users/edit/:id)(/users/edit/:id)
