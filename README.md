@@ -11,8 +11,10 @@ Command will install all dependcy required to run program.
 
 
 
-### `npm setup`
+### `End Points for Login USer`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+    - Login (/ account/login)
+    - Register (/ account/register)
+    - User List (/users)
+    - Add User (/users/add)
+    - Edit User (/users/edit/:id)
